@@ -1,2 +1,3 @@
 # github-demo
-this is my git second repository
+this is my git second repository.
+Author-Arya Tyagi
